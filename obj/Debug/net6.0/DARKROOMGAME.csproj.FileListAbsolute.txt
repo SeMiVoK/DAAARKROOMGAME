@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\DARKROOMGAME\bin\Debug\net6.0\DARKROOMGAME.exe
+C:\Users\user\Desktop\DARKROOMGAME\bin\Debug\net6.0\DARKROOMGAME.deps.json
+C:\Users\user\Desktop\DARKROOMGAME\bin\Debug\net6.0\DARKROOMGAME.runtimeconfig.json
+C:\Users\user\Desktop\DARKROOMGAME\bin\Debug\net6.0\DARKROOMGAME.dll
+C:\Users\user\Desktop\DARKROOMGAME\bin\Debug\net6.0\DARKROOMGAME.pdb
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.AssemblyInfo.cs
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.dll
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\refint\DARKROOMGAME.dll
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.pdb
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\DARKROOMGAME.genruntimeconfig.cache
+C:\Users\user\Desktop\DARKROOMGAME\obj\Debug\net6.0\ref\DARKROOMGAME.dll
